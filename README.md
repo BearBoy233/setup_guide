@@ -169,6 +169,10 @@
 
 -   [Markdowm文本编辑器/Typora-收费了!]
 
+    [最后一版免费版-0.11.18](https://www.typora.io/windows/dev_release.html)
+
+    [奶牛快传/cowtransfer.com](https://cowtransfer.com/s/b4f3f2f533bd48)    **传输口令** `ng8fzu`
+
 -   [VS Code]
     + Markdown Preview Enhanced 替代 Typora
 
