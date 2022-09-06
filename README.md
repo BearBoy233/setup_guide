@@ -162,6 +162,15 @@
   
     [单目相机校准](./camera_calibration.md)
 
+- mavros install GeographicLib Error
+
+    `GeographicLib.zip`
+
+    替换目录下文件即可
+
+    [奶牛快传/GeographicLib.zip](https://cowtransfer.com/s/fea84b70cda944)
+
+    口令 yrtsv0
 
 ### 辅助软件
 
